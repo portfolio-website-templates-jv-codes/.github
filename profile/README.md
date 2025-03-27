@@ -24,6 +24,7 @@ These portfolio website templates offer you various options to design an impress
 - [Responsive Ai Guru Portfolio](https://jvcodes.com/responsive-ai-guru-portfolio/)
 - [Vino Responsive Portfolio Template](https://jvcodes.com/vino-responsive-portfolio/)
 - [Advance JvFolio Personal Portfolio Template](https://jvcodes.com/advance-jvfolio-personal-portfolio-template/)
+- [Modern Bootstrap Portfolio Template for Material UI Designer](https://jvcodes.com/modern-bootstrap-portfolio-template-for-material-ui-designer/)
 
 ## How to Create an Event Planning Portfolio?
 
