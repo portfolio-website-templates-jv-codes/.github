@@ -16,8 +16,8 @@ The development of a portfolio website requires minimal effort. Your portfolio n
 
 These portfolio website templates offer you various options to design an impressive site:
 
-1 [Responsive Portfolio Website Design for Web Developer](https://jvcodes.com/responsive-portfolio-website-design-for-web-developer/)
-2 [Responsive Portfolio Design for Content Writer](https://jvcodes.com/responsive-portfolio-design-for-content-writer/)
+1. [Responsive Portfolio Website Design for Web Developer](https://jvcodes.com/responsive-portfolio-website-design-for-web-developer/)
+2. [Responsive Portfolio Design for Content Writer](https://jvcodes.com/responsive-portfolio-design-for-content-writer/)
 3 [Neomorphic Portfolio Design for Android App Developers](https://jvcodes.com/neomorphic-portfolio-design-for-android-app-developers/)
 4 [Responsive Portfolio Design for Scientist](https://jvcodes.com/responsive-portfolio-design-for-scientist/)
 5 [One Page Animated Personal Portfolio](https://jvcodes.com/one-page-animated-personal-portfolio/)
